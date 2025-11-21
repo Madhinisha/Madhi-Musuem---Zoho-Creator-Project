@@ -2,16 +2,6 @@
 
 It maintains records of Artifacts, Event Management, Artifact Loan System. The system digitizes museum operations, enhances visitor experience with online booking.
 
-## 📌 Features
-
-* Fully built using **Zoho Creator**
-* Integrated with **Zoho Sign**, **Zoho CRM**, **Zoho Books**, **Zoho Inventory**, and **Zoho WorkDrive**
-* Third‑party **WhatsApp API integration** to send successful ticket confirmation messages
-* Automated workflows for ticket booking, document signing, invoicing, CRM sync, and inventory updates
-* WorkDrive storage for tickets, receipts, and signed documents
-* Clean and structured form/report design inside Zoho Creator
-* Mobile‑friendly interface through Creator’s native responsiveness
-
 ## ✨ Screenshots
 <h3><b>Home Page</b></h3>
 <img width="1366" height="720" alt="Screenshot 2025-11-10 153629" src="https://github.com/user-attachments/assets/f1a3ada3-6f3b-4677-b47f-f7df98488455" />
@@ -24,35 +14,15 @@ It maintains records of Artifacts, Event Management, Artifact Loan System. The s
 <h3><b>Dashboard</b></h3>
 <img width="1366" height="720" alt="Screenshot 2025-11-19 161536" src="https://github.com/user-attachments/assets/b51df1ae-51c4-45a3-a5ed-7151c2fd81ea" />
 
+## ✨ Flow
+<h3><b>Admin :</b></h3>Maintain Artifact, Event Management, Loan System, Staff Details, Dashboard.
+<h3><b>Customer :</b></h3>Ticket Booking, Ticket Cancellation, Donation and Sale, Artifact Loan, Loan Return.
 
+## 📌 Features
 
-
-* Museum ticket submission form
-* WhatsApp confirmation message screenshot
-* WorkDrive stored ticket PDF
-* Zoho Sign signed museum ticket
-
-## 🔧 Customization
-
-This application is fully developed using **Zoho Creator** and can be customized through:
-
-* Creator forms & reports
-* Deluge scripting
-* Automated workflows and approvals
-* Integration tasks (CRM, Books, Inventory, Sign, WorkDrive)
-* Custom functions and WorkDrive file generation
-
-## 📚 Future Enhancements
-
-* Add integrations with **Zoho Analytics** and **Zoho Desk**
-* Enhanced automated signing workflows via Zoho Sign
-* Sync more CRM modules and Books transaction logs
-* Advanced inventory tracking tied to event bookings
-* Improved ticket UI templates stored in WorkDrive
-* Multi‑language ticket generation
-* Dark/light theme switch for Creator pages
-
-
+* Integrated with **Zoho Sign**, **Zoho CRM**, **Zoho Books**, **Zoho Inventory**, **Zoho WorkDrive** and **Zoho Survey**.
+* Third‑party **WhatsApp** API integration to send successful ticket confirmation message.
+* WorkDrive storage for Staff Details and signed document.
 
 ---
 
