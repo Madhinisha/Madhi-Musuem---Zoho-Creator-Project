@@ -12,7 +12,7 @@ It maintains records of Artifacts, Event Management, Artifact Loan System. The s
 <h3><b>Tickets</b></h3>
 <img width="1366" height="720" alt="Screenshot 2025-11-19 161237" src="https://github.com/user-attachments/assets/df957000-f411-4286-9394-348a216292d3" />
 <h3><b>Cancellation Policy</b></h3>
-
+<img width="1366" height="720" alt="Image" src="https://github.com/user-attachments/assets/b0fc20ac-d867-461e-b81f-1db1603fe5ff" />
 <h3><b>Dashboard</b></h3>
 <img width="1366" height="720" alt="Screenshot 2025-11-19 161536" src="https://github.com/user-attachments/assets/b51df1ae-51c4-45a3-a5ed-7151c2fd81ea" />
 
