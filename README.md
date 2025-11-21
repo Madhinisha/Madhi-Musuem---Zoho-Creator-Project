@@ -1,6 +1,6 @@
 # Madhi's Museum Project
 
-A complete museum management solution built entirely using **Zoho Creator**, designed to automate ticketing, event handling, documentation, customer communication, and backend operations. This application integrates seamlessly with Zoho ecosystem apps and third‑party services to deliver a smooth end‑to‑end workflow.
+It maintains records of Artifacts, Event Management, Artifact Loan System. The system digitizes museum operations, enhances visitor experience with online booking.
 
 ## 📌 Features
 
@@ -26,7 +26,6 @@ A complete museum management solution built entirely using **Zoho Creator**, des
 
 
 
-**Example placeholders:**
 
 * Museum ticket submission form
 * WhatsApp confirmation message screenshot
