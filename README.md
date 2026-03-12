@@ -27,5 +27,3 @@ It maintains records of Artifacts, Event Management, Artifact Loan System. The s
 * WorkDrive storage for Staff Details and signed document.
 
 ---
-
-Made with ❤️ by **Madhi**
